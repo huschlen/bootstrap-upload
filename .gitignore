@@ -1,3 +1,16 @@
+# Binary files
+*.class
+*.war
+
+# Files created by eclipse
+.classpath
+.gradle
+.project
+.settings
+
+# Temporay MANIFEST.MF
+build/tmp/war/MANIFEST.MF
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
